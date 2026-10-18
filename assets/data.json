@@ -3,7 +3,7 @@
     "nome": "Joilson - Piscineiro",
     "whatsapp": "5514998904054",
     "cidade": "Ponta Porã - MS e Pedro Juan Caballero - PY",
-    "foto": "assets/fotos/perfil.webp",
+    "foto": "https://placehold.co/200x200/0d3b66/22d3ee?text=Foto",
     "horario": "Segunda a Sábado - 7h às 18h"
   },
   "servicos": [
@@ -11,33 +11,33 @@
       "nome": "Limpeza Simples",
       "descricao": "Aspiração, escovação e balanceamento do cloro.",
       "preco": 150,
-      "foto": "assets/fotos/limpeza.webp",
+      "foto": "https://placehold.co/400x300/0d3b66/22d3ee?text=Limpeza",
       "ativo": true
     },
     {
       "nome": "Limpeza Pesada (sujeira grave)",
       "descricao": "Piscina verde, fundo com lodo, tratamento de choque.",
       "preco": 350,
-      "foto": "assets/fotos/limpeza-pesada.webp",
+      "foto": "https://placehold.co/400x300/0d3b66/22d3ee?text=Pesada",
       "ativo": true
     },
     {
       "nome": "Manutenção Mensal",
       "descricao": "4 visitas no mês, produtos inclusos.",
       "preco": 400,
-      "foto": "assets/fotos/manutencao.webp",
+      "foto": "https://placehold.co/400x300/0d3b66/22d3ee?text=Mensal",
       "ativo": true
     }
   ],
   "antes_depois": [
     {
-      "antes": "assets/fotos/antes-1.webp",
-      "depois": "assets/fotos/depois-1.webp",
+      "antes": "https://placehold.co/300x300/8b0000/ffffff?text=Antes",
+      "depois": "https://placehold.co/300x300/006400/ffffff?text=Depois",
       "legenda": "Piscina verde em 2 dias"
     },
     {
-      "antes": "assets/fotos/antes-2.webp",
-      "depois": "assets/fotos/depois-2.webp",
+      "antes": "https://placehold.co/300x300/8b0000/ffffff?text=Antes",
+      "depois": "https://placehold.co/300x300/006400/ffffff?text=Depois",
       "legenda": "Fundo com lodo removido"
     }
   ]
