@@ -1,0 +1,44 @@
+{
+  "perfil": {
+    "nome": "Joilson - Piscineiro",
+    "whatsapp": "5514998904054",
+    "cidade": "Ponta Porã - MS e Pedro Juan Caballero - PY",
+    "foto": "assets/fotos/perfil.webp",
+    "horario": "Segunda a Sábado - 7h às 18h"
+  },
+  "servicos": [
+    {
+      "nome": "Limpeza Simples",
+      "descricao": "Aspiração, escovação e balanceamento do cloro.",
+      "preco": 150,
+      "foto": "assets/fotos/limpeza.webp",
+      "ativo": true
+    },
+    {
+      "nome": "Limpeza Pesada (sujeira grave)",
+      "descricao": "Piscina verde, fundo com lodo, tratamento de choque.",
+      "preco": 350,
+      "foto": "assets/fotos/limpeza-pesada.webp",
+      "ativo": true
+    },
+    {
+      "nome": "Manutenção Mensal",
+      "descricao": "4 visitas no mês, produtos inclusos.",
+      "preco": 400,
+      "foto": "assets/fotos/manutencao.webp",
+      "ativo": true
+    }
+  ],
+  "antes_depois": [
+    {
+      "antes": "assets/fotos/antes-1.webp",
+      "depois": "assets/fotos/depois-1.webp",
+      "legenda": "Piscina verde em 2 dias"
+    },
+    {
+      "antes": "assets/fotos/antes-2.webp",
+      "depois": "assets/fotos/depois-2.webp",
+      "legenda": "Fundo com lodo removido"
+    }
+  ]
+}
